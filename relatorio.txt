@@ -1,0 +1,51 @@
+=========================================
+      RELATORIO DE CADASTROS
+=========================================
+
+Codigo : 1
+Nome   : Sara ferreira
+Idade  : 43
+Sexo   : f
+Salario: R$ 8.00
+-----------------------------------------
+Codigo : 2
+Nome   : Davi Silva
+Idade  : 53
+Sexo   : m
+Salario: R$ 4.56
+-----------------------------------------
+Codigo : 3
+Nome   : Joao Victor
+Idade  : 14
+Sexo   : m
+Salario: R$ 12.00
+-----------------------------------------
+Codigo : 4
+Nome   : Maria Dalva
+Idade  : 91
+Sexo   : f
+Salario: R$ 4.00
+-----------------------------------------
+Codigo : 5
+Nome   : Mariola Herculos
+Idade  : 34
+Sexo   : m
+Salario: R$ 1.94
+-----------------------------------------
+Codigo : 6
+Nome   : Luiza Camello
+Idade  : 28
+Sexo   : f
+Salario: R$ 1.72
+-----------------------------------------
+Codigo : 7
+Nome   : Noemi Demias
+Idade  : 19
+Sexo   : f
+Salario: R$ 1.40
+-----------------------------------------
+
+Quantidade : 7
+Media Salarial : 4.80
+Maior Salario : 12.00
+Menor Salario : 1.40
